@@ -1,3 +1,29 @@
 .hide-button {
     display: none;
 }
+
+body {
+    background-color: rgba(28, 27, 27, 0.934);
+}
+
+div {
+    border: lightsalmon 2px solid;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+ header {
+    color: goldenrod;
+
+ }
+
+ .joke-setup {
+    color: lightgoldenrodyellow;
+
+ }
+ .joke-punchline {
+    color: lightgoldenrodyellow;
+
+ }
